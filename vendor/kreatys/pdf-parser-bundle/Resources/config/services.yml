@@ -1,0 +1,3 @@
+services:
+    kreatys.pdf_parser:
+        class: Smalot\PdfParser\Parser

@@ -1,0 +1,12 @@
+{
+    "name": "kaido/pdfsearch",
+    "authors": [
+        {
+            "name": "Kaido",
+            "email": "toomingas.k@gmail.com"
+        }
+    ],
+    "require": {
+        "kreatys/pdf-parser-bundle": "^0.1.0"
+    }
+}
