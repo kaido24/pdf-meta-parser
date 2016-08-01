@@ -1,2 +1,2 @@
 # PDF-Meta-Parser
-  (Wordpress plugin)
+Extract PDF data from the file and add it the the Wordpress metadata. 
